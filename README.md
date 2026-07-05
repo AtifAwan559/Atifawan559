@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AtifAwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atifawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AtifAwan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-mehmood-awan-265a9129b/)
 [![GitHub](https://img.shields.io/badge/GitHub-AtifAwan559-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifAwan559)
 [![Gmail](https://img.shields.io/badge/Gmail-awanatif237-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awanatif237@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
