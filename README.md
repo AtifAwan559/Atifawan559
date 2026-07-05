@@ -33,7 +33,7 @@ education:
   university: UET Lahore
   degree: BS Computer Science
   session: 2023 – 2027
-  reg: 2023-CS-154
+  
 
 focus_areas:
   - AI / Computer Vision
